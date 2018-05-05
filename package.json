@@ -1,0 +1,23 @@
+{
+  "name": "hellocucumber",
+  "version": "1.0.0",
+  "description": "getting started with cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikegfisher/hellocucumber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikegfisher/hellocucumber/issues"
+  },
+  "homepage": "https://github.com/mikegfisher/hellocucumber#readme",
+  "devDependencies": {
+    "cucumber": "^4.2.1"
+  }
+}
